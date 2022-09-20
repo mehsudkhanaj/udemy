@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(163, 231, 209);;
+}
+.container{
+    margin: 30px;
+    padding: 15px;
+    background-color: white;
+    width: auto;
+    height: 100vh;
+}
+.heading{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.pargraph{
+    background-color: white;
+    text-align: center;
+    
+}
